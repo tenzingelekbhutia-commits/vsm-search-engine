@@ -7,11 +7,11 @@ Features
 - Dataset-based search
 
 How to Run
--Install required libraries
--Run the program
--Enter your search query in the terminal
+- Install required libraries
+- Run the program
+- Enter your search query in the terminal
 
 Example query
--technology
--sports
--business
+- technology
+- sports
+- business
